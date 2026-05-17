@@ -1,3 +1,5 @@
+## INSANELY OLD PROJECT, DISCONTINUED.
+
 # Dark
 A multifunctional tool with only ddos working but in constant update
 
